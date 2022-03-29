@@ -1,5 +1,4 @@
 # Project engineering
-## DALIBOT Victor
 
 ## Chatbot project: AI Chatbot
 
