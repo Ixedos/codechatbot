@@ -16,23 +16,5 @@ Lien de l'application:
 
       http://localhost:5000/
       
-## Monitoring:
-
-Prometheus:
-
-      http://localhost:9090/
-
-Alertmanager:
-
-      http://localhost:9093/#/alerts
-
-Grafana:
-
-      id: admin
-      passeword: 1234
-
-      http://localhost:3001
-
-Slack application:
-
-      https://app.slack.com/client/T037LSWEPDL/C037TGF3EFM
+![alt text](https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-githubhttps://github.com/Ixedos/codechatbot/blob/main/victorbadge.PNG)
+![alt text](https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-githubhttps://github.com/Ixedos/codechatbot/blob/main/gauthierbadge.PNG)
