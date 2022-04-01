@@ -16,5 +16,5 @@ Lien de l'application:
 
       http://localhost:5000/
       
-![alt text](https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-githubhttps://github.com/Ixedos/codechatbot/blob/main/victorbadge.PNG)
-![alt text](https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-githubhttps://github.com/Ixedos/codechatbot/blob/main/gauthierbadge.PNG)
+![alt text](https://github.com/Ixedos/codechatbot/blob/main/victorbadge.PNG)
+![alt text](https://github.com/Ixedos/codechatbot/blob/main/gauthierbadge.PNG)
