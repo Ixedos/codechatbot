@@ -16,5 +16,7 @@ Lien de l'application:
 
       http://localhost:5000/
       
+      
+## Badges
 ![alt text](https://github.com/Ixedos/codechatbot/blob/main/victorbadge.PNG)
 ![alt text](https://github.com/Ixedos/codechatbot/blob/main/gauthierbadge.PNG)
